@@ -1,0 +1,16 @@
+{
+    "name": "innis-maggiore/silverstripe-searchable-dataobjects-innodb",
+    "description": "This module adds DataObjects to frontend search",
+    "type": "silverstripe-module",
+    "keywords": ["silverstripe", "dataobject", "search"],
+    "license": "GPL-3.0",
+    "authors": [{
+        "name": "Joe Chenevey",
+        "email": "web-dev@innismaggiore.com"
+    }],
+    "require": {
+        "silverstripe/framework": "^3.2.0",
+        "silverstripe/cms": "^3.2.0",
+		"zirak/htmlpurifier": "1.0.*"
+    }
+}
